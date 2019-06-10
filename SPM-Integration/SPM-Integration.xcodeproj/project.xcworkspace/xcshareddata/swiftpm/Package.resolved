@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MySPMTestFramework",
+        "repositoryURL": "https://github.com/leonardo-ferreira07/SPM-First-Tests",
+        "state": {
+          "branch": "master",
+          "revision": "0647d1ee720c9e3b253ff764b8a0ece039d9d0ae",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
