@@ -24,6 +24,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window.rootViewController = UIHostingController(rootView: ContentView())
         self.window = window
         window.makeKeyAndVisible()
+        
+        print(UIViewController.topController)
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

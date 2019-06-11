@@ -14,6 +14,7 @@
 		A7C51A2522AF136700A0784B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7C51A2422AF136700A0784B /* Preview Assets.xcassets */; };
 		A7C51A2822AF136700A0784B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7C51A2622AF136700A0784B /* LaunchScreen.storyboard */; };
 		A7C51A3122AF147D00A0784B /* MySPMTestFramework in Frameworks */ = {isa = PBXBuildFile; productRef = A7C51A3022AF147D00A0784B /* MySPMTestFramework */; };
+		A7C51A3322AF156F00A0784B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C51A3222AF156F00A0784B /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A7C51A2422AF136700A0784B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A7C51A2722AF136700A0784B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7C51A2922AF136700A0784B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7C51A3222AF156F00A0784B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A7C51A1B22AF136500A0784B /* AppDelegate.swift */,
 				A7C51A1D22AF136500A0784B /* SceneDelegate.swift */,
 				A7C51A1F22AF136500A0784B /* ContentView.swift */,
+				A7C51A3222AF156F00A0784B /* ViewController.swift */,
 				A7C51A2122AF136700A0784B /* Assets.xcassets */,
 				A7C51A2622AF136700A0784B /* LaunchScreen.storyboard */,
 				A7C51A2922AF136700A0784B /* Info.plist */,
@@ -156,6 +159,7 @@
 			files = (
 				A7C51A1C22AF136500A0784B /* AppDelegate.swift in Sources */,
 				A7C51A1E22AF136500A0784B /* SceneDelegate.swift in Sources */,
+				A7C51A3322AF156F00A0784B /* ViewController.swift in Sources */,
 				A7C51A2022AF136500A0784B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
